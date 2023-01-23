@@ -937,6 +937,11 @@ header nav .form i {
     color: black;
 }
 
+.pricing .plans .plan .foot a:hover {
+    background-color: var(--main-color);
+    color: white;
+}
+
 .pricing .contact-text {
     text-align: center;
     margin: 50px auto 20px;
